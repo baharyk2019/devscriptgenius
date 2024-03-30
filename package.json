@@ -1,0 +1,33 @@
+{
+  "name": "devscriptgenius",
+  "version": "1.0.2",
+  "description": "devscriptgenius",
+  "type": "module",
+  "main": "devscriptgenius.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baharyk2019/devscriptgenius"
+  },
+  "website": "https://github.com/baharyk2019/devscriptgenius.git",
+  "keywords": [
+    "devscriptgenius"
+  ],
+  "author": "baharyk2019",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baharyk2019/devscriptgenius/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/baharyk2019/devscriptgenius#readme",
+  "dependencies": {
+    "programdevsavvy": "1.0.2",
+    "codecraftwhisper": "1.0.2",
+    "programscriptmaster": "1.0.2"
+  }
+}
